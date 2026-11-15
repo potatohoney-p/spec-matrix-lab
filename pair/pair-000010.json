@@ -1,0 +1,13 @@
+{
+  "record_id": "pair-000010",
+  "phase": "index",
+  "metric": "coverage",
+  "value": 44.0578,
+  "sample_size": 2111,
+  "digest": "0695fc3f074fe8295431e70cf8727d57",
+  "window": {
+    "start": "2026-09-05",
+    "span_hours": 168
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
