@@ -1,0 +1,13 @@
+{
+  "record_id": "cx-000900",
+  "phase": "index",
+  "metric": "entropy",
+  "value": 57.4763,
+  "sample_size": 1700,
+  "digest": "566191704563e87e136e812ec9eb5e67",
+  "window": {
+    "start": "2026-04-07",
+    "span_hours": 72
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
